@@ -18,6 +18,10 @@ function App() {
         >
           Learn React
         </a>
+        <p>
+          My own custom paragraph :-) <br/>
+          New line added.
+        </p>
       </header>
     </div>
   );
